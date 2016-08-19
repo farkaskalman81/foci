@@ -9,7 +9,7 @@
 
 <div id="rmenu">rMenu</div>
 <div id="umenu">uMenu</div>
-<div id="content">Content</div>
+<div id="content">Content here</div>
 
 
 </body>
