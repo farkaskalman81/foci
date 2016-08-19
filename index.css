@@ -1,0 +1,31 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	margin:auto;
+	background-color:#C3D9FF;
+	font:12px Verdana;
+	color:#000;
+}
+
+#rmenu {
+	width:200px;
+	height: 400px;
+	padding:10px;
+	float:left;
+	background-color:green;
+}
+#umenu {
+	padding:10px;
+	float:left;
+	background-color:red;
+}
+
+#content {
+	width:530px;
+	padding:10px;
+	float:left;
+	background-color:gray;
+}
